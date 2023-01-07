@@ -1,0 +1,21 @@
+@media all and (max-width: 990px) {
+    .iamge-logonavbar{
+       max-width: 10em;
+       min-height: 5em;
+    }
+}
+<<<<<<< Updated upstream
+@media all and (max-width: 679px) {
+    .iamge-logonavbar{
+       max-width: 10em;
+       min-height: 5em;
+=======
+@media all and (max-width:709px){
+    .paper-side-bar{
+     position: absolute;
+     z-index: 1000;
+     
+     
+>>>>>>> Stashed changes
+    }
+}
